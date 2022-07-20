@@ -1,0 +1,15 @@
+0 /Users/huangkexin/Desktop/data/DCL_A/011c89ec-0202-48d6-a09e-d9647ac31f3d.png
+1 /Users/huangkexin/Desktop/data/DCL_A/71c4394b-fa9e-4faf-8725-0a7c4fda55d6.png
+2 /Users/huangkexin/Desktop/data/DCL_A/2ad83202-63fa-43d5-87f7-24f5907e1f76.png
+3 /Users/huangkexin/Desktop/data/DCL_A/3ca14db0-d30a-4753-b431-d1f19a16c065.png
+4 /Users/huangkexin/Desktop/data/DCL_A/75cc79f8-aa54-48f5-bcb6-aff678089358.png
+5 /Users/huangkexin/Desktop/data/DCL_A/01005_wk16_1.png
+6 /Users/huangkexin/Desktop/data/DCL_A/7a22803c-382c-46c3-b86c-5956c02d0688.png
+7 /Users/huangkexin/Desktop/data/DCL_A/01005_wk00.png
+8 /Users/huangkexin/Desktop/data/DCL_A/51d80c9e-b3db-4a5c-9e2f-b9fdca3bb3d0.png
+9 /Users/huangkexin/Desktop/data/DCL_A/443aad29-1feb-4569-93e2-19081b75678a.png
+10 /Users/huangkexin/Desktop/data/DCL_A/03d45016-8691-42fc-bc1a-47fc4e3f06c2.png
+11 /Users/huangkexin/Desktop/data/DCL_A/9a25d6b0-7583-44ca-8f19-2f0632b27f0a.png
+12 /Users/huangkexin/Desktop/data/DCL_A/860ed3a7-5006-43d7-8f03-e9aa55266609.png
+13 /Users/huangkexin/Desktop/data/DCL_A/6de267d0-8758-4f06-b3ae-dc0b81cd2064.png
+14 /Users/huangkexin/Desktop/data/DCL_A/0c6f659c-f1b7-435b-9d1e-f696e7b3a145.png
